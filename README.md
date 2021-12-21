@@ -5,7 +5,9 @@ Problem Statement : Given a sentence and a named entity contained within a sente
 Instructions for executing the code :
 
 Step 1 : Clone the repository (RepositaryName-NLP_Engineer_Test)
+
 Step 2 : Install all the necessary modules through requirements.txt
+
 Step 3: Execute the code in Jupyter notebook(Notebook name : Sentiment Analysis)
 
 Post executing the code, Models pickle file and Test predictions file will be downloaded.
