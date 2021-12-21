@@ -8,7 +8,7 @@ Step 1 : Clone the repository (RepositaryName-NLP_Engineer_Test)
 
 Step 2 : Install all the necessary modules through requirements.txt
 
-Step 3: Execute the code in Jupyter notebook(Notebook name : sentiment_entity_analysis)
+Step 3: Execute the code in Jupyter notebook(Notebook name : sentiment_entity_analysis.ipynb)
 
 Post executing the code, Models pickle file and Test predictions file will be downloaded.
 
